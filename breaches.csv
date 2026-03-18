@@ -1,0 +1,84 @@
+Year,Organization,Industry,Records_Lost,Attack_Type,Country,Sensitivity
+2004,AOL,Technology,92000000,Insider Threat,USA,Financial
+2005,CardSystems Solutions,Finance,40000000,Hacking,USA,Financial
+2007,TJX Companies,Retail,94000000,Hacking,USA,Financial
+2008,Heartland Payment Systems,Finance,130000000,Hacking,USA,Financial
+2009,RockYou,Technology,32000000,SQL Injection,USA,Passwords
+2011,Sony PlayStation Network,Technology,77000000,Hacking,Japan,Personal
+2011,Epsilon,Marketing,4000000,Hacking,USA,Personal
+2012,LinkedIn,Technology,117000000,Hacking,USA,Passwords
+2012,Dropbox,Technology,68000000,Hacking,USA,Passwords
+2013,Adobe,Technology,153000000,Hacking,USA,Financial
+2013,Target,Retail,110000000,Malware,USA,Financial
+2013,Yahoo,Technology,3000000000,Hacking,USA,Personal
+2014,eBay,Technology,145000000,Hacking,USA,Personal
+2014,JPMorgan Chase,Finance,83000000,Hacking,USA,Financial
+2014,Home Depot,Retail,56000000,Malware,USA,Financial
+2014,Snapchat,Technology,4600000,Hacking,USA,Personal
+2015,Anthem,Healthcare,78800000,Hacking,USA,Medical
+2015,Ashley Madison,Technology,37000000,Hacking,Canada,Personal
+2015,OPM,Government,21500000,Hacking,USA,Government
+2015,T-Mobile,Telecom,15000000,Hacking,USA,Personal
+2016,Yahoo,Technology,500000000,Hacking,USA,Personal
+2016,FriendFinder,Technology,412000000,Hacking,USA,Personal
+2016,Myspace,Technology,360000000,Hacking,USA,Passwords
+2016,LinkedIn,Technology,117000000,Hacking,USA,Passwords
+2016,Uber,Technology,57000000,Hacking,USA,Personal
+2017,Equifax,Finance,147900000,Hacking,USA,Financial
+2017,WannaCry NHS,Healthcare,1200000,Ransomware,UK,Medical
+2017,Verizon,Telecom,14000000,Accidental,USA,Personal
+2017,Dun Bradstreet,Finance,33700000,Hacking,USA,Financial
+2017,Deep Root Analytics,Government,198000000,Accidental,USA,Government
+2018,Facebook Cambridge Analytica,Technology,87000000,Insider Threat,USA,Personal
+2018,Marriott,Hospitality,500000000,Hacking,USA,Personal
+2018,Quora,Technology,100000000,Hacking,USA,Personal
+2018,MyFitnessPal,Healthcare,150000000,Hacking,USA,Medical
+2018,Google+,Technology,52500000,Hacking,USA,Personal
+2018,British Airways,Transport,500000,Hacking,UK,Financial
+2018,Exactis,Marketing,340000000,Accidental,USA,Personal
+2019,Capital One,Finance,106000000,Hacking,USA,Financial
+2019,Facebook,Technology,540000000,Accidental,USA,Personal
+2019,Zynga,Technology,218000000,Hacking,USA,Personal
+2019,Evite,Technology,101000000,Hacking,USA,Personal
+2019,Collection 1,Technology,773000000,Hacking,Multiple,Passwords
+2019,Canva,Technology,137000000,Hacking,Australia,Personal
+2019,Biostar 2,Technology,27800000,Accidental,South Korea,Biometric
+2020,Zoom,Technology,500000,Credential Stuffing,USA,Passwords
+2020,Nintendo,Technology,300000,Credential Stuffing,Japan,Personal
+2020,Twitter,Technology,130,Social Engineering,USA,Personal
+2020,SolarWinds,Government,18000,Supply Chain,USA,Government
+2020,Cognizant,Technology,0,Ransomware,USA,Financial
+2020,Marriott,Hospitality,5200000,Hacking,USA,Personal
+2020,Easy Jet,Transport,9000000,Hacking,UK,Financial
+2020,Antheus Tecnologia,Healthcare,76000000,Accidental,Brazil,Biometric
+2021,Facebook,Technology,533000000,Scraping,USA,Personal
+2021,LinkedIn,Technology,700000000,Scraping,USA,Personal
+2021,Microsoft Exchange,Technology,60000,Hacking,USA,Government
+2021,Twitch,Technology,125000000,Hacking,USA,Personal
+2021,T-Mobile,Telecom,54000000,Hacking,USA,Personal
+2021,Colonial Pipeline,Energy,0,Ransomware,USA,Financial
+2021,Kaseya,Technology,0,Ransomware,USA,Financial
+2021,CNA Financial,Finance,0,Ransomware,USA,Financial
+2022,Twitter,Technology,400000000,Hacking,USA,Personal
+2022,Optus,Telecom,9800000,Hacking,Australia,Personal
+2022,Medibank,Healthcare,9700000,Hacking,Australia,Medical
+2022,LastPass,Technology,25000000,Hacking,USA,Passwords
+2022,Uber,Technology,77000,Hacking,USA,Personal
+2022,Samsung,Technology,190000000,Hacking,South Korea,Personal
+2022,Neopets,Technology,69000000,Hacking,USA,Personal
+2022,Cash App,Finance,8200000,Insider Threat,USA,Financial
+2023,MOVEit,Technology,60000000,Hacking,USA,Personal
+2023,T-Mobile,Telecom,37000000,Hacking,USA,Personal
+2023,Twitter,Technology,200000000,Scraping,USA,Personal
+2023,ChatOpenAI,Technology,1200000,Bug,USA,Personal
+2023,Indian ICMR,Healthcare,815000000,Hacking,India,Medical
+2023,Aadhaar,Government,815000000,Hacking,India,Government
+2023,23andMe,Healthcare,6900000,Credential Stuffing,USA,Medical
+2023,MGM Resorts,Hospitality,6000000,Social Engineering,USA,Financial
+2023,Duolingo,Technology,2600000,Scraping,USA,Personal
+2024,National Public Data,Finance,2900000000,Hacking,USA,Personal
+2024,AT&T,Telecom,73000000,Hacking,USA,Personal
+2024,Change Healthcare,Healthcare,100000000,Ransomware,USA,Medical
+2024,Ticketmaster,Technology,560000000,Hacking,USA,Financial
+2024,Snowflake,Technology,165000000,Credential Stuffing,USA,Personal
+2024,Dell,Technology,49000000,Hacking,USA,Personal
